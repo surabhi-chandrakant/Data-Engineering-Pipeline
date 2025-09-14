@@ -1,0 +1,48 @@
+title,company,experience_level,job_category,education_required,remote_possible,skills,source
+global operations manager fashion,rosie etienne,senior,data,none,yes,,RemoteOK API
+senior full stack developer,lemon.io,senior,devops,none,yes,"ai, aws, azure, django, gcp",RemoteOK API
+llm data engineer,sanctuary computer,senior,backend,none,yes,"ai, django, gcp, python, react",RemoteOK API
+client success manager,venus,senior,fullstack,none,yes,,RemoteOK API
+senior ruby on rails engineer,everai,senior,fullstack,none,yes,"agile, ai",RemoteOK API
+senior performance marketer,everai,senior,qa,none,yes,ai,RemoteOK API
+senior full stack engineer,aguru uk,senior,frontend,none,yes,"ai, api, css, postgresql, react",RemoteOK API
+senior devops engineer,aguru uk,senior,devops,none,yes,"ai, aws, azure, docker, kubernetes",RemoteOK API
+social media manager shitposter fun ecom co,jls trading co,senior,qa,bachelors,yes,rest,RemoteOK API
+mid level backend dev for saas the music industry,melodyiq,senior,fullstack,none,yes,"gcp, javascript, postgresql, typescript",RemoteOK API
+online data research with bonus,telus digital,senior,mobile,none,hybrid,"ai, machine learning",RemoteOK API
+engineering lead,aragon,senior,frontend,none,yes,"agile, git, react, scrum",RemoteOK API
+python developer,ampcontrol,senior,fullstack,none,hybrid,"ai, gcp, postgresql, python, rabbitmq",RemoteOK API
+senior editor,afar,senior,fullstack,none,yes,,RemoteOK API
+freelance python contributor project aurora,datacurve,senior,backend,none,unknown,"ai, python",RemoteOK API
+senior software engineer,google,senior,qa,none,unknown,,Public Dataset
+mid-level devops developer,amazon,senior,frontend,bachelors,yes,"angular, mongodb, typescript",Realistic Sample
+senior full stack developer,slack,senior,fullstack,bachelors,unknown,"docker, flask, python, redis",Realistic Sample
+mid-level backend developer,meta,senior,frontend,bachelors,unknown,"angular, mongodb, typescript",Realistic Sample
+senior frontend developer,intel,senior,frontend,bachelors,unknown,"javascript, mongodb, node.js, react",Realistic Sample
+senior frontend developer,microsoft,senior,devops,bachelors,unknown,"gcp, kubernetes",Realistic Sample
+mid-level devops developer,adobe,senior,frontend,bachelors,unknown,"angular, mongodb, typescript",Realistic Sample
+junior full stack developer,salesforce,senior,frontend,bachelors,unknown,"javascript, mongodb, node.js, react",Realistic Sample
+junior devops developer,twitter,senior,fullstack,bachelors,unknown,"azure, sql",Realistic Sample
+mid-level devops developer,ibm,senior,devops,bachelors,unknown,"gcp, kubernetes",Realistic Sample
+mid-level devops developer,airbnb,senior,fullstack,bachelors,unknown,"docker, flask, python, redis",Realistic Sample
+mid-level frontend developer,uber,senior,fullstack,bachelors,unknown,"aws, django, postgresql, python",Realistic Sample
+junior backend developer,salesforce,senior,frontend,bachelors,unknown,"angular, mongodb, typescript",Realistic Sample
+junior devops developer,oracle,senior,fullstack,bachelors,unknown,postgresql,Realistic Sample
+junior devops developer,netflix,senior,frontend,bachelors,unknown,"angular, mongodb, typescript",Realistic Sample
+junior backend developer,cisco,senior,frontend,bachelors,unknown,"angular, mongodb, typescript",Realistic Sample
+junior frontend developer,uber,senior,fullstack,bachelors,unknown,postgresql,Realistic Sample
+senior full stack developer,spotify,senior,fullstack,bachelors,unknown,postgresql,Realistic Sample
+senior frontend developer,uber,senior,fullstack,bachelors,yes,"azure, sql",Realistic Sample
+mid-level frontend developer,spotify,senior,fullstack,bachelors,unknown,"aws, django, postgresql, python",Realistic Sample
+junior full stack developer,airbnb,senior,fullstack,bachelors,unknown,postgresql,Realistic Sample
+junior frontend developer,twitter,senior,fullstack,bachelors,unknown,"docker, flask, python, redis",Realistic Sample
+junior full stack developer,uber,senior,devops,bachelors,yes,"gcp, kubernetes",Realistic Sample
+junior frontend developer,meta,senior,fullstack,bachelors,unknown,"aws, django, postgresql, python",Realistic Sample
+senior devops developer,twitter,senior,fullstack,bachelors,unknown,"docker, flask, python, redis",Realistic Sample
+junior full stack developer,twitter,senior,fullstack,bachelors,unknown,"docker, flask, python, redis",Realistic Sample
+mid-level frontend developer,slack,senior,frontend,bachelors,yes,"javascript, mongodb, node.js, react",Realistic Sample
+senior full stack developer,ibm,senior,fullstack,bachelors,unknown,"docker, flask, python, redis",Realistic Sample
+mid-level full stack developer,cisco,senior,fullstack,bachelors,unknown,"azure, sql",Realistic Sample
+junior backend developer,oracle,senior,backend,bachelors,unknown,postgresql,Realistic Sample
+senior backend developer,uber,senior,fullstack,bachelors,yes,"azure, java, mysql, spring",Realistic Sample
+mid-level devops developer,stripe,senior,frontend,bachelors,unknown,"javascript, mongodb, node.js, react",Realistic Sample
